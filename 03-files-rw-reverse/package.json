@@ -1,0 +1,13 @@
+{
+  "name": "file-rw-reverse",
+  "version": "1.0.0",
+  "description": "Write a program that reads the contents of a given file, reverses it, and writes it to a new file using the fs module. The first parameter of the program should be the path to the file to be reversed, and the second parameter should be the path to the file to which the result should be written. If the reading and writing are successful, the program should print the message 'File was processed successfully'. If the file does not exist, the program should print the message 'File not found'.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OlegBon",
+  "license": "ISC"
+}

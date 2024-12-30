@@ -1,0 +1,13 @@
+{
+  "name": "buffer-conc",
+  "version": "1.0.0",
+  "description": "Write a function that takes two buffers and returns a new buffer that contains the combined contents of the two buffers.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OlegBon",
+  "license": "ISC"
+}

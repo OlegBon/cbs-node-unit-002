@@ -1,0 +1,13 @@
+{
+  "name": "file-to-console",
+  "version": "1.0.0",
+  "description": "Write a program that reads the contents of a given file using the fs module and prints it to the console. The first parameter of the program should be the path to the file to be read. If the file does not exist, the program should print the message 'File not found'. If the reading is successful, the program should print the contents of the file to the console.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OlegBon",
+  "license": "ISC"
+}

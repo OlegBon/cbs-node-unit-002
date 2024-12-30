@@ -1,0 +1,16 @@
+{
+  "name": "convert-string-to-base64",
+  "version": "1.0.0",
+  "description": "Create a module that exports the function convertString(value). The function should accept a value as a string and return that string in base64 format.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OlegBon",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "files-rw",
+  "version": "1.0.0",
+  "description": "Create a program that reads the source.dat file as binary data and saves the read values ​​to another file target.dat.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OlegBon",
+  "license": "ISC"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "file-copy",
+  "version": "1.0.0",
+  "description": "Write a program that creates a copy of a given file using the fs module. The first parameter of the program should be the path to the original file, and the second parameter should be the path to the copy. If the copy is successful, the program should print the message 'File was copied successfully'. If a file with such name already exists in the destination folder, the program should print the message 'File with such name already exists in the destination folder'. To get the path to the file, use the process.argv object property.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OlegBon",
+  "license": "ISC"
+}
